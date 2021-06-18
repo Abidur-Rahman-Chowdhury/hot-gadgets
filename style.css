@@ -76,3 +76,14 @@
   margin-top: 15px;
   margin-bottom: 15px;
 }
+.icon a {
+  text-decoration: none;
+}
+.icon a:hover {
+  color: #000000;
+}
+.icon-item {
+  font-size: 40px;
+  margin-right: 10px;
+  color: #000000;
+}
